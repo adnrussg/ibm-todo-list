@@ -1,0 +1,21 @@
+# Node.js specific
+node_modules/
+npm-debug.log*
+
+# Editor files
+.DS_Store
+*.swp
+*.bak
+*.tmp
+*.log
+
+# Build output
+dist/
+
+# IDE specific files
+/.idea
+/.vscode
+
+# Miscellaneous
+.eslintcache
+.eslintrc.cjs
